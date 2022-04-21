@@ -1,0 +1,27 @@
+{
+  "name": "yas3z",
+  "version": "1.0.0",
+  "description": "Yet another 's3 files to zip stream' library. Optimized for large number of files and for small RAM consumption. ExpressJS example supplied.",
+  "main": "yas3z.js",
+  "repository": "https://github.com/zpetukhov/yas3z.git",
+  "homepage": "https://github.com/zpetukhov/yas3z",
+  "author": "zpetukhov <zpetukhov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.3.1"
+  },
+  "keywords": [
+    "zip",
+    "s3",
+    "stream",
+    "amazon",
+    "aws",
+    "zipping",
+    "streaming",
+    "express",
+    "expressjs",
+    "memory",
+    "ram"
+  ],
+  "readmeFilename": "README.md"
+}

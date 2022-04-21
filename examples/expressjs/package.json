@@ -1,0 +1,13 @@
+{
+  "name": "yas3z-expressjs-example",
+  "version": "0.0.0",
+  "author": "zpetukhov <zpetukhov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "aws-sdk": "^2.1114.0",
+    "yas3z": "link:../..",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
